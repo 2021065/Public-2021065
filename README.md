@@ -15,10 +15,10 @@ https://github.com/2021065/Public-2021065/blob/main/2021065_seo_thesis_7min_v3.p
 ## program code
 オートエンコーダで抽出した特徴ベクトルを，K-meansでクラスタリングするプログラム：
 （画像データセットが入ったファイルパスを指定する必要あり）
-（モデルの学習にデータセットのラベルは使わないが，結果を表示するためにラベル（フォルダ名）が必要）
+（モデルの学習にデータセットのラベルは使わないが，結果を表示するためにラベル（フォルダ名）が必要）  
 https://github.com/2021065/Public-2021065/blob/main/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80/auto_metric_2_latest.py
 
-オートエンコーダでの特徴抽出と抽出した特徴をメトリックラーニングで最適化するプログラム
+オートエンコーダでの特徴抽出と抽出した特徴をメトリックラーニングで最適化するプログラム  
 (Experiments on feature extraction using autoencoder and latent space optimization using Metric Learning):
 https://github.com/2021065/Public-2021065/blob/main/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80/MetricLearning_latest.py
 
