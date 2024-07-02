@@ -2,7 +2,7 @@
 ## Graduation thesis
 https://github.com/2021065/Public-2021065/blob/main/2021065_seo_thesis_v17.docx
 
-## 卒業論文発表スライド（８分）
+## Graduation thesis explain slide
 https://github.com/2021065/Public-2021065/blob/main/2021065_seo_thesis_7min_v3.pptx  
 ## 学会発表資料  
 ### **第153回IFAT研究発表会(岡山大学)**  
