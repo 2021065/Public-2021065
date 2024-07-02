@@ -1,3 +1,5 @@
+## AINA 2024  
+https://github.com/2021065/Public-2021065/blob/main/AINA2024_seo_v5.doc  
 
 ## Graduation thesis
 https://github.com/2021065/Public-2021065/blob/main/2021065_seo_thesis_v17.docx
