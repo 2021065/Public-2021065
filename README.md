@@ -1,3 +1,9 @@
+##　my reserace  
+Graduation thesis　　
+https://github.com/2021065/Public-2021065/blob/main/2021065_seo_thesis_v17.docx　　
+  
+
+
 ## 卒業論文
 https://github.com/2021065/Public-2021065/blob/main/2021065_seo_thesis_v17.docx
 
